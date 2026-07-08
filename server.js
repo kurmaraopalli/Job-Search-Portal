@@ -141,7 +141,10 @@ const jobFetchers = {
     // Classify job domain based on title
     classifyDomain(title) {
         const titleLower = title.toLowerCase();
-        if (titleLower.includes('architect') || titleLower.includes('lead')) {
+        if (titleLower.includes('principal software engineer') || titleLower.includes('principal engineer') || 
+            titleLower.includes('principal sde') || titleLower.includes('staff engineer')) {
+            return 'Principal Software Engineer';
+        } else if (titleLower.includes('architect') || titleLower.includes('lead')) {
             return 'Architect';
         } else if (titleLower.includes('manager') || titleLower.includes('head') || titleLower.includes('director')) {
             return 'Manager';

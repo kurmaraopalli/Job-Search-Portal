@@ -124,6 +124,42 @@ const fallbackJobs = [
         description: "Design AI/ML solutions for enterprise customers. Work with sales teams on technical pre-sales and solution architecture.",
         tags: ["Solutions", "AI/ML", "Pre-sales"],
         email: "recruitment@enterprisesoft.com"
+    },
+    {
+        id: 11,
+        title: "Principal Software Engineer",
+        company: "Tech Innovations Inc",
+        location: "Bengaluru",
+        domain: "Principal Software Engineer",
+        experience: "8+ years",
+        salary: "₹40-60 LPA",
+        description: "Lead software development initiatives, mentor engineers, and drive technical excellence across multiple projects.",
+        tags: ["Leadership", "Software Development", "Mentoring"],
+        email: "careers@techinnovations.com"
+    },
+    {
+        id: 12,
+        title: "Principal Software Engineer - Cloud",
+        company: "CloudFirst Technologies",
+        location: "Hyderabad",
+        domain: "Principal Software Engineer",
+        experience: "10+ years",
+        salary: "₹50-75 LPA",
+        description: "Architect and lead cloud-native application development. Drive best practices and technical strategy for cloud platforms.",
+        tags: ["Cloud", "Architecture", "Leadership"],
+        email: "hiring@cloudfirst.io"
+    },
+    {
+        id: 13,
+        title: "Principal Software Engineer - AI/ML",
+        company: "DataDriven AI",
+        location: "Bengaluru",
+        domain: "Principal Software Engineer",
+        experience: "9+ years",
+        salary: "₹45-70 LPA",
+        description: "Lead AI/ML platform development, implement machine learning pipelines, and guide technical decisions for AI products.",
+        tags: ["AI/ML", "Platform", "Leadership"],
+        email: "jobs@datadrivenai.com"
     }
 ];
 

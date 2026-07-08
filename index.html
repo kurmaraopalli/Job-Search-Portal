@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enterprise AI & Architecture Job Search Portal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 Enterprise AI & Architecture Job Search Portal</h1>
+            <p class="subtitle">High-Scale Engineering Opportunities | Bengaluru & Hyderabad</p>
+        </header>
+
+        <section class="profile-section">
+            <h2>👤 Candidate Profile</h2>
+            <div class="profile-content">
+                <div class="profile-item">
+                    <strong>Core Competencies:</strong>
+                    <span>Enterprise Architecture, AI/ML Systems, Cloud Infrastructure, Team Leadership</span>
+                </div>
+                <div class="profile-item">
+                    <strong>Experience Level:</strong>
+                    <span>Senior/Principal/Executive</span>
+                </div>
+                <div class="profile-item">
+                    <strong>Target Locations:</strong>
+                    <span>Bengaluru, Hyderabad</span>
+                </div>
+                <div class="profile-item profile-link">
+                    <strong>Portfolio:</strong>
+                    <a href="https://kurmaraopalli.github.io/About-Me/" target="_blank" rel="noopener noreferrer">
+                        kurmaraopalli.github.io/About-Me/ ↗
+                    </a>
+                </div>
+                <div class="profile-item profile-link">
+                    <strong>LinkedIn:</strong>
+                    <a href="https://www.linkedin.com/in/kurma-rao-05b34a32/" target="_blank" rel="noopener noreferrer">
+                        linkedin.com/in/kurma-rao-05b34a32/ ↗
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="filters-section">
+            <h2>🔍 Filter Jobs</h2>
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label for="cityFilter">City:</label>
+                    <select id="cityFilter">
+                        <option value="all">All Cities</option>
+                        <option value="Bengaluru">Bengaluru</option>
+                        <option value="Hyderabad">Hyderabad</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="domainFilter">Domain Mode:</label>
+                    <select id="domainFilter">
+                        <option value="all">All Domains</option>
+                        <option value="Architect">Architect Mode</option>
+                        <option value="Manager">Manager Mode</option>
+                        <option value="Generative AI">Generative AI/RAG</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <section class="jobs-section">
+            <h2>💼 Available Positions</h2>
+            <div id="jobsContainer" class="jobs-container">
+                <!-- Jobs will be dynamically loaded here -->
+            </div>
+            <div id="noResults" class="no-results" style="display: none;">
+                <p>No jobs match your current filters. Try adjusting your criteria.</p>
+            </div>
+        </section>
+
+        <footer>
+            <p>© 2024 Enterprise AI & Architecture Job Search Portal</p>
+            <p class="footer-note">Optimized for GitHub Pages Deployment</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

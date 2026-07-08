@@ -271,6 +271,51 @@ header h1 {
     font-size: 1.1rem;
 }
 
+.networking-section {
+    padding: 30px;
+    background: #f8f9fa;
+    border-top: 2px solid #e9ecef;
+}
+
+.networking-section h2 {
+    color: #667eea;
+    margin-bottom: 25px;
+    font-size: 1.5rem;
+}
+
+.networking-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.networking-tip {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 4px solid #667eea;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.networking-tip:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+}
+
+.networking-tip h3 {
+    color: #667eea;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.networking-tip p {
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
 footer {
     background: #f8f9fa;
     padding: 25px;

@@ -230,6 +230,107 @@ Adapt `server.js` for serverless deployment using serverless frameworks.
 - **Career Portfolios:** Integrate into personal websites
 - **Job Boards:** Custom job aggregation platform
 
+## 🤝 Networking Strategies with Job Openings
+
+### Leverage Job Openings for Network Building
+
+**1. Research Company Connections**
+- Use LinkedIn to find connections at target companies
+- Look for second-degree connections who can introduce you
+- Identify alumni from your institution working at these companies
+- Reach out to hiring managers before applying
+
+**2. Strategic Application Approach**
+- Don't just apply - network first
+- Find employees on LinkedIn and send personalized messages
+- Mention specific job openings in your outreach
+- Request informational interviews about the role and company
+
+**3. Engage with Company Content**
+- Follow target companies on LinkedIn
+- Comment thoughtfully on their posts
+- Share relevant industry insights
+- Build visibility before applying
+
+**4. Attend Industry Events**
+- Look for virtual/physical events hosted by target companies
+- Participate in webinars and tech talks
+- Join professional groups and communities
+- Network with employees at conferences
+
+**5. Utilize Your Existing Network**
+- Let your connections know you're looking
+- Ask for introductions to specific companies
+- Share job openings with your network (reciprocity)
+- Leverage alumni networks and professional associations
+
+**6. Follow-Up Strategy**
+- After applying, reach out to connections at the company
+- Send personalized follow-up messages
+- Share relevant work or projects that demonstrate fit
+- Stay on their radar without being pushy
+
+**7. Build Thought Leadership**
+- Publish articles on LinkedIn about relevant topics
+- Share insights about industry trends
+- Comment on posts from companies you're targeting
+- Demonstrate expertise in your domain
+
+### Networking Template Messages
+
+**Initial Connection Request:**
+```
+Hi [Name],
+
+I came across the [Job Title] position at [Company] and noticed your work there. I'd love to connect and learn more about your experience with [specific topic related to their work].
+
+My background is in [your field] and I'm particularly interested in [specific area]. Would you be open to a brief conversation about the team culture and the role?
+
+Best regards,
+[Your Name]
+```
+
+**Informational Interview Request:**
+```
+Hi [Name],
+
+I hope you're doing well. I'm very interested in the [Job Title] role at [Company] and would value your insights about the team and the company's approach to [relevant topic].
+
+Would you have 15-20 minutes for a quick call or coffee chat? I'd appreciate any advice you could share about the interview process and what success looks like in this role.
+
+Thank you for considering,
+[Your Name]
+```
+
+**Follow-Up After Application:**
+```
+Hi [Name],
+
+I recently applied for the [Job Title] position at [Company] and wanted to reach out personally. Given your experience with [relevant area], I thought you might be able to provide insights into what the team is looking for.
+
+I've attached my resume and would greatly appreciate any guidance you could share. I'm particularly excited about [specific aspect of the role/company].
+
+Best regards,
+[Your Name]
+[LinkedIn Profile Link]
+```
+
+### Platform-Specific Networking
+
+**LinkedIn Strategy:**
+- Optimize your profile with relevant keywords
+- Get recommendations from colleagues
+- Join industry-specific groups
+- Engage with content from target companies
+- Use LinkedIn's "Open to Work" feature
+
+**Naukri Strategy:**
+- Complete your profile with all details
+- Highlight key skills and achievements
+- Use the "Featured" section for portfolio work
+- Set job alerts for relevant positions
+- Respond promptly to recruiter messages
+
 ## 🔒 Security Considerations
 - Add authentication for admin endpoints
 - Implement rate limiting on API endpoints
